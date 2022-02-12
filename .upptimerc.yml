@@ -1,17 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: absolutelynoot # Your GitHub organization or username, where this repository lives
+repo: e4g01t06.monitoring # The name of this repository
 
 sites:
   - name: E4g01t06 Jira Atlassian.net
     url: https://e4g01t06.atlassian.net/
   - name: EastCity Open Cart Production Environment
     url: http://ec2-13-214-168-201.ap-southeast-1.compute.amazonaws.com/
+    
+assignees: # Users to assign downtime issues (optional)
+  - absolutelynoot
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: e4g01t06.monitoring
+  baseUrl: /e4g01t06.monitoring
+  name: e4g01t06 Monitoring Tool
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: e4g01t06 Monitoring
