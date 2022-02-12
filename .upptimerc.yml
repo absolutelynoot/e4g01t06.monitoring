@@ -5,11 +5,12 @@ repo: e4g01t06.monitoring # The name of this repository
 sites:
   - name: E4g01t06 Jira Atlassian.net
     url: https://e4g01t06.atlassian.net/
-  - name: EastCity Open Cart Production Environment
+  - name: ESMOS Open Cart Production Environment
     url: http://ec2-13-214-168-201.ap-southeast-1.compute.amazonaws.com/
     
 assignees: # Users to assign downtime issues (optional)
   - absolutelynoot
+  - estherlohhhh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,10 +19,10 @@ status-website:
   name: e4g01t06 Uptime Monitoring
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  introTitle: "**e4g01t06 Site Monitoring Tool** powered by **Upptime**"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**e4g01t06 ESMOS Site Monitoring**"
+  introMessage: This is a ESMOS status page which uses **real-time** data updated every 5 minutes. 
   navbar:
-    - title: Status
+    - title: ESMOS Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
