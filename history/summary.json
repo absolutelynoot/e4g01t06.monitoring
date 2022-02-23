@@ -22,19 +22,19 @@
     "url": "http://ec2-34-226-245-218.compute-1.amazonaws.com",
     "icon": "https://favicons.githubusercontent.com/ec2-34-226-245-218.compute-1.amazonaws.com",
     "slug": "esmos-open-cart-production-environment",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 258,
-    "timeWeek": 486,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "87.11%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
+    "time": 524,
+    "timeDay": 253,
+    "timeWeek": 461,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 186
     }
   }
 ]
