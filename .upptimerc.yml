@@ -6,7 +6,7 @@ sites:
   - name: E4g01t06 Jira Atlassian.net
     url: https://e4g01t06.atlassian.net/
   - name: ESMOS Open Cart Production Environment
-    url: http://ec2-34-226-245-218.compute-1.amazonaws.com
+    url: http://34.226.245.218/index.php?route=common/home
     
 assignees: # Users to assign downtime issues (optional)
   - absolutelynoot
