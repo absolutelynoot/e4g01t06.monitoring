@@ -4,7 +4,7 @@
     "url": "https://e4g01t06.atlassian.net/",
     "icon": "https://favicons.githubusercontent.com/e4g01t06.atlassian.net",
     "slug": "e4g01t06-jira-atlassian-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 919,
     "timeMonth": 949,
     "timeYear": 864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-14": 0
+    }
   },
   {
     "name": "ESMOS Open Cart Production Environment",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/34.226.245.218",
     "slug": "esmos-open-cart-production-environment",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 235,
     "timeDay": 195,
     "timeWeek": 137,
