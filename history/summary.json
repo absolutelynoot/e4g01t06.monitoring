@@ -4,19 +4,19 @@
     "url": "https://e4g01t06.atlassian.net/",
     "icon": "https://favicons.githubusercontent.com/e4g01t06.atlassian.net",
     "slug": "e4g01t06-jira-atlassian-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 1463,
-    "timeWeek": 919,
-    "timeMonth": 949,
-    "timeYear": 864,
+    "time": 1119,
+    "timeDay": 13906,
+    "timeWeek": 4098,
+    "timeMonth": 1768,
+    "timeYear": 1119,
     "dailyMinutesDown": {
-      "2022-05-14": 0
+      "2022-05-14": 5
     }
   },
   {
