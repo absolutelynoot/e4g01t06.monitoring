@@ -6,18 +6,16 @@
     "slug": "e4g01t06-jira-atlassian-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 13906,
-    "timeWeek": 4098,
-    "timeMonth": 1768,
-    "timeYear": 1119,
-    "dailyMinutesDown": {
-      "2022-05-14": 5
-    }
+    "time": 1117,
+    "timeDay": 13614,
+    "timeWeek": 4125,
+    "timeMonth": 1776,
+    "timeYear": 1117,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ESMOS Open Cart Production Environment",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 235,
-    "timeDay": 195,
-    "timeWeek": 137,
-    "timeMonth": 154,
+    "timeDay": 196,
+    "timeWeek": 159,
+    "timeMonth": 153,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2022-02-24": 174,
